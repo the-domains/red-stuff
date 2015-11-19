@@ -1,0 +1,28 @@
+name: Red Stuff
+favicon: null
+layout_spectrum: 0.9924702611751854
+typography_spectrum: 0.4924446097575128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6027574129402637
+  lightness: 0.31894268677569926
+  saturation: 0.7092370595782995
+  rhythmicContrast: 0.11246253945864737
+purpose: []
